@@ -65,6 +65,7 @@ GPT가 글쓰기를 도와주고, 심리 분석 및 액션리스트까지 제공
 ---
 
 ## 📁 프로젝트 구조 (예시)
+```plaintext
 react-gpt-memoir/
 ├── public/
 ├── src/
@@ -77,7 +78,7 @@ react-gpt-memoir/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## 📌 향후 개선 아이디어
